@@ -5,5 +5,6 @@ public class SomeProgram {
 	   public void manageRockets() {
     // TODO implement
 }
+	     System.out.println("FAIL!!! do it once again, you're not an expert yet! ;/");
     }
 }
